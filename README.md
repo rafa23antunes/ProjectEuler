@@ -1,2 +1,4 @@
 # ProjectEuler
-My resolutions of "projecteuler.net" problems
+My resolutions of ProjectEuler problems
+
+https://projecteuler.net/archives
