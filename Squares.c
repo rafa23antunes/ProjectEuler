@@ -44,5 +44,5 @@ void main () {
 	scanf("%d",&n);
 	putchar('\n');
 
-	printf("The difference between the squar of the sum and the sum of the squares is: %d\n",squares(n));
+	printf("The difference between the square of the sum and the sum of the squares is: %d\n",squares(n));
 } 
