@@ -38,6 +38,7 @@ d=q-s;                      // difference between the square of the sum (int q) 
 return d;                   // return (int d)
 }
 
+
 void main () {
 	int n;
 	printf("Insert a number:");
